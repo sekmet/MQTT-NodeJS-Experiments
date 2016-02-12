@@ -32,7 +32,6 @@
 *   Permissive licenses
 *   How to spot a good module?
 
-<div class="copyright">[http://500px.com/photo/64986565  ](http://500px.com/photo/64986565)[](http://creativecommons.org/licenses/by/3.0/deed.en_us)</div>
 
 ## MQTT.js
 
