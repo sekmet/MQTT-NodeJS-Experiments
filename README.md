@@ -151,9 +151,9 @@ client.on("message", function(topic, payload) {
 
 ## Ponte API
 
-*   http://<your ponte>/resources/<your thing>
-*   coap://<your ponte>/r/<your thing>
-*   mqtt(s)://<your ponte>/<your thing>
+*   http://[your ponte]/resources/[your thing]
+*   coap://[your ponte]/r/[your thing]
+*   mqtt(s)://[your ponte]/[your thing]
 
 ### [http://github.com/mcollina](http://github.com/mcollina)
 
